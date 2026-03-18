@@ -1,9 +1,9 @@
 
 ### This project extracts texts from image, pdf files. Classify the files based on the contents. Classification class includes invoice, forms, handwritten, and others. The Dataset used is the RVL - CDIP Dataset downloaded from Kaggle. 
 
-### I have written the deeplearning code with tensorflow in order to improve accuracy
+#### I have written the deeplearning code with tensorflow in order to improve accuracy
 
-### The pytorch is written to serve as an optional method so the model can better understand:
+#### The pytorch is written to serve as an optional method so the model can better understand:
 #### 1. Where text appears on the page
 #### 2. Tables vs paragraphs
 #### 3. Key-value relationships (perfect for invoices)
